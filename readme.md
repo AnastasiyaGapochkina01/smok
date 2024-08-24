@@ -1,1 +1,15 @@
 # Репозиторий с домашними заданиями
+## Изучать и выполнять задания можно в любом порядке
+#### Список лекций (домашние задания находятся в директории home_works)
+- [обработка текста](https://vk.com/video-224078601_456239033?list=ln-z97G1f8PSnkyABQ8QK)
+- [пользователи и права доступа](https://vk.com/video-224078601_456239034?list=ln-buL6ffaU5tYEa3pcgM)
+- [процессы](https://vk.com/video-224078601_456239037?list=ln-Ryrouymf97TFrxQzEQ)
+- [работа с ФС](https://vk.com/video-224078601_456239025?list=ln-du3aTY2L3ASoHKVFWE)
+- [работа с systemd](https://vk.com/video-224078601_456239036?list=ln-lftGZUyXiGRcrZ0FLi)
+- [установка ПО](https://vk.com/video-224078601_456239035?list=ln-6glZ3wXOjvDkzHcpdg)
+- [bash-скриптинг, часть 1](https://vk.com/video-224078601_456239022?list=ln-H0lJ0AZYrHwH11JfuW)
+- [bash-скриптинг, часть 2](https://vk.com/video-224078601_456239023?list=ln-dYEuKg0YZbVR5N24mo)
+- [сети, часть 1](https://vk.com/video-224078601_456239029?list=ln-7VlZqHdYXRGknSZwbA)
+- [сети, часть 2](https://vk.com/video-224078601_456239024?list=ln-sfATGZc2cisZXlJFUI)
+- [сети, часть 3](https://vk.com/video-224078601_456239026?list=ln-TGqvWyo1Bt0z1LWcyf)
+- [сети, часть 4](https://vk.com/video-224078601_456239027?list=ln-o7TVnuIdrGOHn2fdmj)
